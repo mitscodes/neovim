@@ -15,7 +15,7 @@ return {
         null_ls.builtins.formatting.prettier,
         null_ls.builtins.formatting.rubocop,
         null_ls.builtins.formatting.shellharden,
-
+        null_ls.builtins.formatting.eslint_d,
         -- Diagnostics
         null_ls.builtins.diagnostics.rubocop,
       },
